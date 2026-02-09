@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【伊東歌詞太郎】ベノム【歌ってみた】",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-09T13:01:58.293434Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベノム",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ベノム_初音ミク.txt"
+    }
+  ]
+}
